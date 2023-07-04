@@ -474,7 +474,7 @@ main {
 }
 
 .navbar-link {
-  color: black;
+  color: white;
   font-size: var(--fs-8);
   font-weight: bold;
   padding: 20px 7px;
